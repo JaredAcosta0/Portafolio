@@ -77,7 +77,7 @@ section h5{
 /*Mosaico*/
 .container-2{
     padding-top: 1rem;
-    margin-bottom: 3.5rem;
+    margin-bottom: 10rem;
     display: grid;
     grid-template: 50% 55% / 50% 50%;
     height: 100vh;

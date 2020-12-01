@@ -62,7 +62,7 @@ section h5{
     margin-bottom: 2rem;
 }
 
-@media (max-width:785px){
+@media (max-width:768px){
     .container .space1{
         display: flex;
         flex-direction: column;
@@ -211,3 +211,5 @@ img{
         width: 80%;
     }
 }
+
+/*Login*/

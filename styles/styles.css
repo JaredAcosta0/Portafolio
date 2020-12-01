@@ -58,7 +58,15 @@ section h5{
 }
 
 .space1{
-    margin-top: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+@media (max-width:785px){
+    .container .space1{
+        display: flex;
+        flex-direction: column;
+    }
 }
 
 .imagencool{
@@ -70,7 +78,10 @@ section h5{
 }
 
 .fondo{
-    background-color: rgb(197, 197, 197);
+    background:url(/styles/Imagenes/giphy\ \(1\).gif);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
 }
 
 .space{

@@ -213,3 +213,20 @@ img{
 }
 
 /*Login*/
+.fondofinal{
+    background-image: url(/styles/Imagenes/giphy\ \(1\).gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.formulario{
+    background: rgba(99, 99, 99, 0.185);
+    padding: 29px;
+    border-radius: 10px;
+    box-shadow: 0 0 30px rgba(85, 85, 85, 0.562);
+}
+
+.ingresar{
+    background: rgba(66, 66, 66, 0.575);
+}

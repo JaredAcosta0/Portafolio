@@ -14,6 +14,10 @@ header{
     padding-bottom: 38rem;
 }
 
+.header-mini{
+    padding-bottom: 1rem;
+}
+
 header nav{
     height: 100px;
     background-color: transparent;
@@ -221,7 +225,7 @@ img{
 }
 
 .formulario{
-    background: rgba(99, 99, 99, 0.185);
+    background: rgba(99, 99, 99, 0.466);
     padding: 29px;
     border-radius: 10px;
     box-shadow: 0 0 30px rgba(85, 85, 85, 0.562);

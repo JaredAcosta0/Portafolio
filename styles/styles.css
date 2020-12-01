@@ -88,8 +88,9 @@ section h5{
 @media (max-width:1300px){
     .container-2{
         display: grid;
-        grid-template: 30% / 60%;
+        grid-template: 30% 30% 30% 30% / 60%;
         height: 70vh;
+        padding-bottom: 3rem;
     }
 }
 
